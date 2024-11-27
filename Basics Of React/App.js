@@ -9,7 +9,7 @@ const heading = React.createElement("div", { id: "parent" }, [
   ),
   React.createElement(
     "div",
-    { id: "child2" },
+    { id: "newChild" },
     React.createElement("h2", {}, "Hello i am child 2")
   ),
 ]);
